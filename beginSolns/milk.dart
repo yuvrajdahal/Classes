@@ -12,3 +12,5 @@ main() {
   double amountInDecimal = double.parse(amountToPay.toStringAsFixed(2));
   print("the amount to be paid is $amountInDecimal" + "rs");
 }
+//acp commited
+
