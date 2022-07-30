@@ -36,4 +36,7 @@ main() {
   final name = person["name"];
   final pp = person["profilePicture"];
   person["address"] = "kathmandu";
+  print(name);
+  print(pp);
+  print(person["address"]);
 }
