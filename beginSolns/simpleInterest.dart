@@ -1,5 +1,3 @@
-import 'dart:io';
-
 main() {
   int principal, rate, time;
   int si;
