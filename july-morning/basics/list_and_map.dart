@@ -39,4 +39,9 @@ main() {
   print(name);
   print(pp);
   print(person["address"]);
+  
+  //   Copying a map person and adding new keys 
+  Map<String,dynamic> person2={...person,"isHuman":true};
+  print(person2);
+  
 }
